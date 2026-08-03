@@ -1,2 +1,2 @@
 # projeto-site
-projeto de um site criado surante aula do guanabara
+projeto de um site criado durante aula do guanabara
