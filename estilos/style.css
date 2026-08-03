@@ -1,6 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
 }
 body {
     background-color: rgb(156, 20, 86);
@@ -12,6 +12,6 @@ main {
 background-color: rgb(248, 246, 243);
 width: 600px;
 margin: auto;
-padding: 20px;
+padding: 30px;
 box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.747);
 }
